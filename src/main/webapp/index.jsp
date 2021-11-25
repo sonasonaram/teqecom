@@ -89,7 +89,7 @@
                         <div class="text-bg">
                            <h1>AWS and <br>DevOps Training</h1>
                            <strong>Free Multipurpose Responsive</strong>
-                           <span>Landing Page 2019</span>
+                           <span>Landing Page 2021</span>
                            <a href="#">Buy Now</a>
                         </div>
                      </div>
