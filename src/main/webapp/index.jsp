@@ -90,7 +90,7 @@
                            <h1>AWS and <br>DevOps Training</h1>
                            <strong>Free Multipurpose Responsive</strong>
                            <span>Landing Page 2021</span>
-                           <a href="#">Buy Now</a>
+                           <a href="#">Learn Now</a>
                         </div>
                      </div>
                      <div class="col-md-7 padding_right1">
